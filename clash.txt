@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,zhaoziyuan.la
 DOMAIN-KEYWORD,ustc
 DOMAIN-KEYWORD,zhihu
 DOMAIN-KEYWORD,huya
+DOMAIN-SUFFIX,elecfans.com
