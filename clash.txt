@@ -7,4 +7,3 @@ DOMAIN-KEYWORD,huya
 DOMAIN-SUFFIX,elecfans.com
 DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,szlcsc.com
-DOMAIN-SUFFIX,tsutsu.one
