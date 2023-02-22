@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,nan7market.com
 DOMAIN-SUFFIX,mozilla.org
+DOMAIN-KEYWORD,aliyun
