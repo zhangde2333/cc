@@ -11,5 +11,4 @@ DOMAIN-SUFFIX,nan7market.com
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-KEYWORD,aliyun
 DOMAIN-SUFFIX,razord.top
-DOMAIN-SUFFIX,tsutsu.one
 
